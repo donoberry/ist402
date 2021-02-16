@@ -92,7 +92,7 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## TravisCI
-
+TravisCI is a hosted continuous intergration service that builds and tests projects on Github and Bitbucket. Travis CI is configured by adding a .travis.yml file to the root depository. Github then notifies when new commits are pushed, or a pull request happens. There is free version, along with paid subscriptions. https://travis-ci.com
 
 ## Bash (sh)
 
